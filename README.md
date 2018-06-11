@@ -7,3 +7,6 @@ Just download the latest build form [Releases](https://github.com/KadePcGames/Di
 ![Design](https://i.imgur.com/32rmVE1.png)
 ## So it's 100% free?
 Yes, it is! It's on Github ;)
+## Credits
+- UI: KadePcGames
+- Webhook: Bon [V3rm](https://v3rmillion.net/member.php?action=profile&uid=73)
